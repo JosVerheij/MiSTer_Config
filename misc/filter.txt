@@ -56,7 +56,6 @@
 !gamegear
 !gamenwatch
 !gameoflife
-!gba
 !gba2p
 !gbc
 !gbmidi
@@ -79,8 +78,6 @@
 !megacd
 !megaduck
 !memte
-!minimig
-!msx
 !msx1
 !multicomp
 !myvision
@@ -99,7 +96,6 @@
 !pmd85
 !pocketchallengev2
 !pokemonmini
-!psx
 !ql
 !rx78
 !s32x
@@ -113,7 +109,6 @@
 !sms
 !sordm5
 !specialist
-!spectrum
 !spmx
 !super_vision_8000
 !supergameboy
@@ -137,7 +132,5 @@
 !wonderswancolor
 !x68000
 !yctxt
-!zx-spectrum
 !zx81
 !zxnext
-!zxspectrum
